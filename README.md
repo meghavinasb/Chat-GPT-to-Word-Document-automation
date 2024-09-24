@@ -1,5 +1,5 @@
 # Project Title:
-Chat-GPT-to-Word-Document-automation
+Chat GPT to Word Document automation
 
 ## Description:
 This project automates the process of querying ChatGPT and transferring the response directly into Microsoft Word. Using `pyautogui`, the script opens a web browser, interacts with the ChatGPT interface, retrieves the generated response, and pastes it into a Word document. The filename of the Word document is based on the user’s prompt, ensuring a clear association between the question and the saved document.
